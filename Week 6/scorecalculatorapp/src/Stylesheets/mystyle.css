@@ -1,0 +1,20 @@
+.score-card {
+  background-color: #f8f9fa;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 400px;
+  border: 2px solid #333;
+  border-radius: 8px;
+  text-align: left;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.score-card h2 {
+  color: #333;
+  text-align: center;
+}
+
+.score-card p {
+  margin: 8px 0;
+}
